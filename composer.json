@@ -1,0 +1,17 @@
+{
+    "name": "user/belajarlaravel",
+    "autoload": {
+        "psr-4": {
+            "User\\Belajarlaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rahmawati1234",
+            "email": "rw9382154@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/laravel": "^9.5"
+    }
+}
